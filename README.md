@@ -116,29 +116,25 @@ Se samband och utvärdera alternativa lösningar vid val av programmeringsteknik
 ### Difference between static and dynamic web applications
 Static web applications are used primarily to showcase information, read-only if you will. They do not have databases and can not be interacted with.
 Dynamic web applications on the other hand are interactable and can change their content frequently. As a result, they also take longer to load. They
-can show different data for different users and or user interaction, or even depending on time of day.
+can show different data for different users and or user interaction, or even depending on time of day. [3]
 
 ### Client-side rendering vs server-side rendering
 With client-side rendering the database gives the browser everything it needs to render the page, it is cheaper for the website owner as it puts less strain on their servers.
 
-With server-side rendering, on the other hand, all the pieces are put together on the server and sent to the browser as a single ready to load file, it is faster for the user but is also more expensive. Gatsby is one of the frameworks that can be used for server-side rendering.
-
-### The most basic web application
-Basic dynamic web applications can be written in plain HTML, CSS, and JS.
+With server-side rendering, on the other hand, all the pieces are put together on the server and sent to the browser as a single ready to load file, it is faster for the user but is also more expensive. Gatsby is one of the frameworks that can be used for server-side rendering. [4]
 
 ### Templating languages
-PUG generates HTML dynamically, it's a templating framework which makes it faster to write, allows you to reuse previous code, allows you to separate your markup from your logic. There are other templating languages such as handlebars, mustache, and more.
+PUG generates HTML dynamically, it's a templating framework which makes it faster to write, allows you to reuse previous code, allows you to separate your markup from your logic. There are other templating languages such as handlebars, mustache, and more. [1, 5]
 
 ### Frameworks
-React, angular
-Frameworks have a predefined structure for building your web application, which is supposed to help developers to develop faster.
+Frameworks have a predefined structure for building your web application, which is supposed to help developers to develop faster. [2]
 
 ### Personal thoughts and reflection
 Whilst larger frameworks can certainly be useful for complex apps, they can be excessive for smaller apps and projects.
 
 For small apps, I think a templating language would suffice.
 
-Server-side rendering seems to give the user a faster loading experience. And because all the content is available for the SEO, it can request and index everything immediately. Whilst with client-side rendering the indexing can be delayed by up to a week because the JS needs to be fully rendered first. On the other hand server side rendering seems to be both more resource heavy, and could become expensive because all the rendering work is done by your servers.
+Server-side rendering seems to give the user a faster loading experience. And because all the content is available for the SEO, it can request and index everything immediately. Whilst with client-side rendering the indexing can be delayed by up to a week because the JS needs to be fully rendered first. On the other hand server side rendering seems to be both more resource heavy, and could become expensive because all the rendering work is done by your servers. [4, 6]
 
 ### Sources:
 1. https://www.quora.com/What-are-the-pros-and-cons-of-using-a-template-engine-like-Jade
