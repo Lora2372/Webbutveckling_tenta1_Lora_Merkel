@@ -141,9 +141,9 @@ For small apps, I think a templating language would suffice.
 Server-side rendering seems to give the user a faster loading experience. And because all the content is available for the SEO, it can request and index everything immediately. Whilst with client-side rendering the indexing can be delayed by up to a week because the JS needs to be fully rendered first. On the other hand server side rendering seems to be both more resource heavy, and could become expensive because all the rendering work is done by your servers.
 
 ### Sources:
-https://www.quora.com/What-are-the-pros-and-cons-of-using-a-template-engine-like-Jade
-https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/
-https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/
-https://www.botify.com/blog/client-side-server-side-rendering-seo
-https://medium.com/@bretcameron/so-you-think-you-know-html-7813c03f8ff6
-https://medium.com/@benjburkholder/javascript-seo-server-side-rendering-vs-client-side-rendering-bc06b8ca2383
+1. https://www.quora.com/What-are-the-pros-and-cons-of-using-a-template-engine-like-Jade
+2. https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/
+3. https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/
+4. https://www.botify.com/blog/client-side-server-side-rendering-seo
+5. https://medium.com/@bretcameron/so-you-think-you-know-html-7813c03f8ff6
+6. https://medium.com/@benjburkholder/javascript-seo-server-side-rendering-vs-client-side-rendering-bc06b8ca2383
