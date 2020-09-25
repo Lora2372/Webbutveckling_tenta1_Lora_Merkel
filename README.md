@@ -130,9 +130,7 @@ PUG generates HTML dynamically, it's a templating framework which makes it faste
 Frameworks have a predefined structure for building your web application, which is supposed to help developers to develop faster. [2]
 
 ### Personal thoughts and reflection
-Whilst larger frameworks can certainly be useful for complex apps, they can be excessive for smaller apps and projects.
-
-For small apps, I think a templating language would suffice.
+Whilst larger frameworks can certainly be useful for complex apps, they can be excessive for smaller apps and projects. For small apps, I think a templating language would suffice. [2]
 
 Server-side rendering seems to give the user a faster loading experience. And because all the content is available for the SEO, it can request and index everything immediately. Whilst with client-side rendering the indexing can be delayed by up to a week because the JS needs to be fully rendered first. On the other hand server side rendering seems to be both more resource heavy, and could become expensive because all the rendering work is done by your servers. [4, 6]
 
