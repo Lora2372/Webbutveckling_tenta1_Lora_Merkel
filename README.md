@@ -142,8 +142,13 @@ Server-side rendering seems to give the user a faster loading experience. And be
 
 ### Sources:
 1. https://www.quora.com/What-are-the-pros-and-cons-of-using-a-template-engine-like-Jade
+
 2. https://stackoverflow.blog/2020/02/03/is-it-time-for-a-front-end-framework/
+
 3. https://www.geeksforgeeks.org/difference-between-static-and-dynamic-web-pages/
+
 4. https://www.botify.com/blog/client-side-server-side-rendering-seo
+
 5. https://medium.com/@bretcameron/so-you-think-you-know-html-7813c03f8ff6
+
 6. https://medium.com/@benjburkholder/javascript-seo-server-side-rendering-vs-client-side-rendering-bc06b8ca2383
